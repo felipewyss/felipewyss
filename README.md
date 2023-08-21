@@ -43,12 +43,6 @@ Estoy buscando aplicar en el desarrollo Web. </p>
       src="https://cdn.icon-icons.com/icons2/2631/PNG/512/gmail_new_logo_icon_159149.png"
     />
   </a>
-  <a href="https://www.instagram.com/felipewyss/" target="_blank">
-    <img
-      width="5%"
-      src="https://drive.google.com/uc?export=view&id=1TIYphjbnlWZLtyfs59jU_uJcMSO3EOr4"
-    />
-  </a>
 
   <h4>¡Hagamos cosas increíbles juntos!🫱🏽‍🫲🏻</h4>
   
