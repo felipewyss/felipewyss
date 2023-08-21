@@ -18,28 +18,16 @@ Estoy buscando aplicar en el desarrollo Web. </p>
     <li>
       Manejo de estado global con React Redux.
     </li>
+    <li>Comprensión de conceptos de seguridad y autenticación.</li>
     <li>Construcción de interfaces interactivas con React</li>
     <li>
       Conocimiento del desarrollo del lado del servidor con Node.js y
       Express.js.
     </li>
-    <li>Familiaridad con bases de datos SQL.</li>
+    <li>Familiaridad con bases de datos SQL (postgres y sequalize).</li>
   </ul>
 
-  <a href="https://github.com/felipewyss/timeyou-PF" target="_blank"> 🕒 TimeYou </a> <br/><br/>
-  <p>Este proyecto es un e-commerce(no es un proyecto real) realizado durante el bootcamp.</p>
-  
-  <img height="200" width="400" src=https://github.com/felipewyss/felipewyss/blob/main/utilsImages/timeyou/Captura%20de%20pantalla%202023-08-17%20102541.png/>
 
-  <img height="200" width="400" src=https://github.com/felipewyss/felipewyss/blob/main/utilsImages/timeyou/Captura%20de%20pantalla%202023-08-17%20102636.png />
-
-  <img height="200" width="400" src=https://github.com/felipewyss/felipewyss/blob/main/utilsImages/timeyou/Captura%20de%20pantalla%202023-08-17%20102709.png />
-  
-  <img height="200" width="400" src=https://github.com/felipewyss/felipewyss/blob/main/utilsImages/timeyou/Captura%20de%20pantalla%202023-08-17%20103133.png/>
-  
-  <img height="200" width="400" src=https://github.com/felipewyss/felipewyss/blob/main/utilsImages/timeyou/Captura%20de%20pantalla%202023-08-17%20102709.png/>
-  
-  <hr/>
   
     <h4>¡Conéctate Conmigo!</h4>
   <a href="https://www.linkedin.com/in/felipewyss/" target="_blank">
@@ -61,8 +49,6 @@ Estoy buscando aplicar en el desarrollo Web. </p>
     />
   </a>
 
-  <a href="tel:+543865572478">
-  </a>
   <h4>¡Hagamos cosas increíbles juntos!🫱🏽‍🫲🏻</h4>
   
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/HTML5_Badge.svg/600px-HTML5_Badge.svg.png" alt="html5" width="40" height="40"/> </a>
