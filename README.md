@@ -29,7 +29,8 @@ Estoy buscando aplicar en el desarrollo Web. </p>
 
 
   
-     <h4>¡Conéctate Conmigo!</h4>
+       
+      
   <a href="https://www.linkedin.com/in/felipewyss/" target="_blank">
     <img
       width="5%"
